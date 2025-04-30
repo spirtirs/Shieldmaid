@@ -1,0 +1,14 @@
+## Interface: 50400
+## Title: Shield Maid
+## Author: Twattle of Frostmane - EU
+## Version: 1.5.0
+## Notes: A tracker for Shield Block and Shield Barrier.
+## SavedVariablesPerCharacter: ShieldMaidConfig
+Config.lua
+Core\Icon.lua
+Core\ShieldBarrierIcon.lua
+Core\ShieldBlockIcon.lua
+Core\LinkedList.lua
+Core\Manager.lua
+Core\Console.lua
+Main.lua
