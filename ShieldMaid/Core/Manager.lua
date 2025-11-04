@@ -198,13 +198,11 @@ function Manager:Load()
 		
 		self:Tick()
 		
-		ns.Console.Write("|c0000FF00Loaded|r")
 	else
 		self.Active = false
 		self.ShieldBarrierIcon:Hide()
 		self.ShieldBlockIcon:Hide()
 		
-		ns.Console.Write("|c00FF0000Unloaded|r")
 	end
 end
 
